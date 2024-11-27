@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item android:id="@+id/today_icon"
+    android:icon="@drawable/today"
+    android:title="@string/today"/>
+    <item android:id="@+id/upcoming_icon"
+        android:icon="@drawable/upcoming"
+        android:title="@string/upcoming"/>
+    <item android:id="@+id/search_icon"
+        android:icon="@drawable/search"
+        android:title="@string/search"/>
+    <item android:id="@+id/browse_icon"
+        android:icon="@drawable/browser"
+        android:title="@string/browse"/>
+
+
+</menu>
