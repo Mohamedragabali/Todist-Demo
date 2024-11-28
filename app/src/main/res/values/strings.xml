@@ -4,4 +4,9 @@
     <string name="upcoming">upcoming</string>
     <string name="search">search</string>
     <string name="browse">browse</string>
+    <string name="Today">Today</string>
+    <string name="_3_taskes">3 taskes</string>
+    <string name="task_name">Task Name</string>
+    <string name="task_description">Task Description goes here.</string>
+    <string name="inbox">Inbox</string>
 </resources>
