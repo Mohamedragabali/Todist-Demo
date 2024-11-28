@@ -8,6 +8,8 @@ import androidx.fragment.app.Fragment
 import com.example.todistdemo.R
 
 class BrowseFragment : Fragment(){
+
+
     override fun onCreateView(
         inflater: LayoutInflater,
         container: ViewGroup?,
